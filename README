@@ -1,0 +1,27 @@
+===================================================================
+2010 by Alex Costa (deanx ltda)
+===================================================================
+README PORTUGUÊS / ENGLISH
+===================================================================
+
+ProjectManagement é um software para gestão de projetos com foco em metodologias ágeis.
+Principais objetivos:
+- gerenciar equipes
+- gerenciar tempo
+- gerenciar estimativas
+
+Desenvolvimento: Java (VRaptor) + Hibernate (JPA)
+Layout utilizando jquery/jquery-ui.
+
+
+README PORTUGUÊS / ENGLISH
+===================================================================
+
+ProjectManagement is a software to software projects management focused in agile metodologies.
+Common goals:
+- manage teams
+- manage time
+- manage estimates
+
+Development: Java (VRaptor) + Hibernate (JPA)
+Layout using jquery/jquery-ui
